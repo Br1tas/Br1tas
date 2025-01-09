@@ -23,3 +23,6 @@
   <b>Discord:</b> britas
   <br>
 </p>
+
+## Stats: 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas"/>
