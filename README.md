@@ -24,5 +24,8 @@
   <br>
 </p>
 
-## Stats: 
+## ✨ Stats: 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas"/>
+  <br>
+</p>
