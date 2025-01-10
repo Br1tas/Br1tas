@@ -26,6 +26,7 @@
 
 ## ✨ Stats: 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas"/>
+  <img src="https://komarev.com/ghpvc/?username=Br1tas&color=blue&style=flat" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas" alt="Top Languages">
   <br>
 </p>
