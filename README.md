@@ -28,12 +28,6 @@
 </p>
 
 ## ✨ Stats: 
-## ✨ GitHub Stats:  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Br1tas&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Br1tas&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Br1tas&color=brightgreen&style=for-the-badge" alt="Profile Views" />
