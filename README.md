@@ -35,5 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Br1tas&show_icons=true&theme=radical" alt="GitHub Stats" />
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?Br1tas&show_icons=true&count_private=true)
 </div>
