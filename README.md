@@ -2,12 +2,12 @@
 
 ---
 
-## 💫 About Me  
+## 💫 About Me:  
 - I’m a FiveM developer with about a year of experience creating custom scripts and managing servers. I enjoy working on scalable solutions and finding creative ways to improve gameplay. Always open to remote projects or collaborations—feel free to reach out!
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack:  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -18,32 +18,16 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
----
-
-## ✨ Achievements  
-- Developed and maintained custom FiveM scripts downloaded by over **X users**.
-- Successfully optimized server performance, achieving a **Y% reduction in lag**.
-- Contributed to community-driven projects on GitHub with **Z stars**.
 
 ---
 
-## 🚀 Highlighted Projects  
-- [**Custom Gameplay Script**](https://github.com/Br1tas/custom-gameplay-script)  
-  A powerful FiveM script designed to enhance player interactions with unique features.
-- [**Server Management Tool**](https://github.com/Br1tas/server-management-tool)  
-  A lightweight tool for effective server administration and monitoring.
-
----
-
-## 📬 Contact  
+## 📬 Contact:  
 <p align="center">
   <b>Discord:</b> britas
   <br>
 </p>
 
----
-
-## ✨ Stats  
+## ✨ Stats: 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Br1tas&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -51,6 +35,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Br1tas&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Br1tas&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?Br1tas&show_icons=true&count_private=true)
 </div>
