@@ -33,10 +33,4 @@
   <img src="https://komarev.com/ghpvc/?username=Br1tas&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas&layout=compact&theme=radical" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Br1tas&show_icons=true&theme=radical" alt="GitHub Stats" />
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Br1tas" alt="Top Langs">
-</a>
 </div>
