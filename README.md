@@ -1,8 +1,7 @@
 # Hi 👋, I'm Britas
-
 ---
 ## 💫 About Me:  
-- I'm a FiveM developer with about a year of experience creating custom scripts and managing servers. I enjoy working on scalable solutions and finding creative ways to improve gameplay. Always open to remote projects or collaborations—feel free to reach out!
+- I'm a FiveM developer with about two years of experience creating custom scripts and managing servers. I enjoy working on scalable solutions and finding creative ways to improve gameplay. Always open to remote projects or collaborations—feel free to reach out!
 ---
 ## 🛠️ Tech Stack:  
 <p align="center">
@@ -31,7 +30,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Br1tas&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br1tas&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br1tas&theme=radical" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Br1tas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Br1tas&theme=radical" alt="Profile Summary" />
 </div>
